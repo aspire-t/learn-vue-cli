@@ -1,10 +1,10 @@
 {
-  "name": "learn-vue-cli",
+  "name": "learn-zf-vue-cli",
   "version": "1.0.0",
   "description": "学习脚手架",
   "main": "main.js",
   "bin": {
-    "learn-vue-cli": "bin/main.js"
+    "learn-zf-vue-cli": "bin/main.js"
   },
   "dependencies": {
     "@vue/cli-shared-utils": "^5.0.8",
